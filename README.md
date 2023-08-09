@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Nirmal Singh
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmal-singh-772771260/)](https://www.linkedin.com/in/nirmal-singh-772771260/)
+[![GitHub](https://img.shields.io/github/followers/NirmalSinghSidhu?label=follow&style=social)](https://github.com/NirmalSinghSidhu)
+
+### GitHub Stats
+![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmalSinghSidhu&show_icons=true&theme=calm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSinghSidhu&layout=compact&theme=calm)](https://github.com/NirmalSinghSidhu/github-readme-stats)
 
 <!--
 **NirmalSinghSidhu/NirmalSinghSidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
