@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Nirmal Singh
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmal-singh-772771260/)](https://www.linkedin.com/in/nirmal-singh-772771260/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmal-singh-772771260)](https://www.linkedin.com/in/nirmal-singh-772771260)
 [![GitHub](https://img.shields.io/github/followers/NirmalSinghSidhu?label=follow&style=social)](https://github.com/NirmalSinghSidhu)
 
 ### GitHub Stats
