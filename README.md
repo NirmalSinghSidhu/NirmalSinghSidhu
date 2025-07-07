@@ -1,25 +1,44 @@
-### Hi there 👋, I am Nirmal Singh
+### Hi there 👋 I'm Nirmal Singh
 
+I'm a passionate **Software Developer** and **Open Source Enthusiast** from India 🇮🇳.  
+I enjoy turning ideas into real-world applications, contributing to open-source projects, and learning new technologies.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirmal-singh-772771260)](https://www.linkedin.com/in/nirmal-singh-772771260)
-[![GitHub](https://img.shields.io/github/followers/NirmalSinghSidhu?label=follow&style=social)](https://github.com/NirmalSinghSidhu)
+---
 
-### GitHub Stats
-![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmalSinghSidhu&show_icons=true&theme=calm)
+### 🛠️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSinghSidhu&layout=compact&theme=calm)](https://github.com/NirmalSinghSidhu/github-readme-stats)
+- 💻 Languages: `Java`, `JavaScript`, `TypeScript`
+- 🌐 Frontend: `HTML`, `SCSS`, `Angular`, `React` 
+- 📱 Mobile: `Android Development`
+- 🔧 Tools: `Git`, `REST APIs`, `Firebase`, `Rpa`, `UiPath`
 
-<!--
-**NirmalSinghSidhu/NirmalSinghSidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Angular and Java Spring Boot
+- Open-source collaboration and project maintenance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/nirmal-singh-772771260) 
+- Email: *nssidhu.dh@gmail.com*
+
+---
+
+### 💖 Support My Open Source Work
+
+If you like what I do and want to support me:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20me-GitHub-%23ea4aaa?style=for-the-badge&logo=GitHub-Sponsors)](https://github.com/sponsors/nirmalsinghsidhu)
+
+---
+
+### 📊 GitHub Stats
+
+![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalsinghsidhu&show_icons=true&theme=radical)
+
+---
+
+Thank you for visiting my profile! ✨
