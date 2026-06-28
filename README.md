@@ -7,15 +7,15 @@ I enjoy turning ideas into real-world applications, contributing to open-source 
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: `Java`, `JavaScript`, `TypeScript`
-- 🌐 Frontend: `HTML`, `SCSS`, `Angular`, `React` 
+- 💻 Languages: `Java`, `JavaScript`, `TypeScript`, `Python`
+- 🌐 Frontend: `HTML`, `SCSS`, `Angular`, `React` , `Nextjs`
 - 📱 Mobile: `Android Development`
 - 🔧 Tools: `Git`, `REST APIs`, `Firebase`, `Rpa`, `UiPath`
 
 ---
 
 ### 🌱 Currently Learning
-- Angular and Java Spring Boot
+- Rag , Artifical Inteligence 
 - Open-source collaboration and project maintenance
 
 ---
