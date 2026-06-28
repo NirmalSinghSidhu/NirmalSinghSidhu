@@ -33,12 +33,4 @@ If you like what I do and want to support me:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor%20me-GitHub-%23ea4aaa?style=for-the-badge&logo=GitHub-Sponsors)](https://github.com/sponsors/nirmalsinghsidhu)
 
----
-
-### 📊 GitHub Stats
-
-![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalsinghsidhu&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my profile! ✨
